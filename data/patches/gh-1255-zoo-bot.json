@@ -1,0 +1,44 @@
+{
+	"id": -1,
+  "_author": ["emjaycrowe", "WanterWither656", "PolishAppleXD", "bavawucket", "MarcelPL63", "Desticler", "kroften"]
+	"name": "Zoo Bot",
+	"description": "Zoo is a text-based idle game for Discord where you can rescue an animal every 6 hours to build up your own zoo, send animals on quests, trade with other players, and WAY TOO MANY OTHER FEATURES.\n\nThe \"r zoo\" at the bottom references the original version of Zoo being a branch of one of Colon's other bots, RoboTop.",
+	"links": {
+		"website": [
+			"https://gdcolon.com/zoo"
+		],
+		"discord": [
+			"BTpTHMHbFr"
+		]
+	},
+	"path": {
+		"239-256": [
+			[
+				1214,
+				-804
+			],
+			[
+				1228,
+				-804
+			],
+			[
+				1228,
+				-788
+			],
+			[
+				1214,
+				-788
+			],
+			[
+				1214,
+				-804
+			]
+		]
+	},
+	"center": {
+		"239-256": [
+			1221,
+			-796
+		]
+	}
+}
